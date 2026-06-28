@@ -5,12 +5,7 @@ An interactive JavaScript animation built as part of the **MDN Web Docs – Addi
 ## 🚀 Live Demo
 
 🔗 **Hosted Project:**
-*Add your GitHub Pages link here*
-
-## 📂 GitHub Repository
-
-🔗 **Repository:**
-*Add your GitHub repository link here*
+https://eldhoseabrahamemerson.github.io/bouncing-balls/
 
 ## 📖 About the Project
 
@@ -76,22 +71,6 @@ bouncing-balls/
 * DOM Manipulation
 * HTML5 Canvas
 
-## 📸 Screenshot
-
-*Add a screenshot of the project here.*
-
-Example:
-
-```
-images/screenshot.png
-```
-
-Then display it using:
-
-```markdown
-![Project Screenshot](images/screenshot.png)
-```
-
 ## 🎯 Future Improvements
 
 * Multiple difficulty levels
@@ -111,7 +90,6 @@ Then display it using:
 
 **Eldhose Abraham Emerson**
 
-GitHub: https://github.com/eldhoseabrahamemerson
 
 ---
 
